@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mis1nput
 - 👀 I’m interested in coding Im trying to learn and program thingss...
-- 🌱 I’m currently learning python/java script
+- 🌱 I’m currently learning Java, Im also Working On Android Studio Projects as well
 - ⚡ Fun fact: I like bagels
 
 <!---
